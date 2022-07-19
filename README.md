@@ -10,4 +10,4 @@ https://discord.gg/5dev => #boutique-lootbox
 
 https://github.com/EnosInWork/Boutique-V3
 
-Optimisé par [Pablo](https://github.com/PABLO-1610) <3
+*Optimisé par [Pablo](https://github.com/PABLO-1610) <3*
