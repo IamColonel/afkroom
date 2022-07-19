@@ -9,3 +9,5 @@ Chaque "x" temps, il reçoit un montant de crédit dans la boutique
 https://discord.gg/5dev => #boutique-lootbox
 
 https://github.com/EnosInWork/Boutique-V3
+
+Optimisé par [Pablo](https://github.com/PABLO-1610) <3
