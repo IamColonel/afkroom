@@ -2,8 +2,8 @@ Config = {
     -- Intervalle de temps pour prélever les impôts (1 heure par défauts)
     interval = 1 * 3600000,
     entrepot = {
-        position = { x = 1088.1834, y = -3099.3457, z = -38.9999 },
-        sortie = { x = 875.89, y = -1576.85, z = 30.81 },
+        position = vector3(1088.1834, -3099.3457, -38.9999),
+        sortie = vector3(875.89, -1576.85, 30.81)
     },
 }
 
